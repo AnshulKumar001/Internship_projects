@@ -1,1 +1,1 @@
-# Internship _ Projects of Labmantex
+# Internship _ Projects of Labmantex company
