@@ -1,4 +1,4 @@
-# 🎬 Netflix Movies Data Analysis(Internship project)
+# 🎬 Netflix Movies Data Analysis (Internship project)
 
 This project focuses on analyzing Netflix movies data using Python to uncover trends, patterns, and insights from the dataset.
 
